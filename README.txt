@@ -1,5 +1,7 @@
-Sito portfolio in cui parlo dei miei ultimi progetti in ambito IT
+Alex31y.github.io
 
+
+This is my personal portfolio where i showcase some of my latest projects
 
 
 
